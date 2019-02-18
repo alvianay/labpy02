@@ -1,5 +1,5 @@
 # labpy03
-# Cara membuatbilanganacak yang lebihkecildari 0,5
+# Cara membuat bilangan acak yang lebih kecil dari 0,5
 
 1. Buka Python
 
