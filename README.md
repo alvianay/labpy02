@@ -31,7 +31,7 @@
 
 ![6](https://user-images.githubusercontent.com/37321627/52934038-e2c9fa80-3387-11e9-8cc7-8586b3b38c94.png)
 
-4. Run kode tersebut, Lalu akan tampil hasi lseperti berikut
+4. Run kode tersebut, Lalu akan tampil hasil seperti berikut
 
 ![7](https://user-images.githubusercontent.com/37321627/52934054-eb223580-3387-11e9-87da-055086ea1a58.png)
 
@@ -51,6 +51,7 @@
 
 4.  Run kodetersebut, Lalu akan tampil hasil seperti berikut
 
-![10](https://user-images.githubusercontent.com/37321627/52934095-08570400-3388-11e9-95f3-7073105e8d5a.png)
+![10](https://user-images.githubusercontent.com/37316835/52938637-bff21300-3394-11e9-8f93-f49a450abb5e.png)
+
 
 Sekian TerimaKasih
